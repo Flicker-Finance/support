@@ -34,7 +34,7 @@ To help us address your concerns efficiently:
 1. **Be Specific**
    - Provide detailed steps to reproduce bugs
    - Include screenshots when possible
-   - Mention your iOS version and device model
+   - Mention your iOS/Android version and device model
 
 2. **One Issue Per Report**
    - Submit separate issues for different problems
