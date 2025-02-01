@@ -25,7 +25,7 @@ For urgent issues related to:
 - Payment problems
 - Data privacy concerns
 
-Please email us directly at support@flickerfinance.com
+Please email us directly at support@flicker.finance
 
 ## Issue Guidelines
 
@@ -87,5 +87,5 @@ To maintain a productive environment:
 ## Contact
 
 - Email: support@flicker.finance
-- Twitter: [@flickerfinance](https://twitter.com/flicker_finance)
-- Website: [flickerfinance.com](https://flicker.finance)
+- Twitter: [@flicker_finance](https://twitter.com/flicker_finance)
+- Website: [flicker.finance](https://flicker.finance)
